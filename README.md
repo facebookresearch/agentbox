@@ -64,3 +64,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and our
 ## License
 
 AgentBox is Apache 2.0 licensed, as found in the [LICENSE](LICENSE) file.
+
+## Citation
+If you use this library in your work, please cite the following paper:
+
+```
+@article{hambardzumyan2026aira_2,
+  title={AIRA\_2: Overcoming Bottlenecks in AI Research Agents},
+  author={Hambardzumyan, Karen and Baldwin, Nicolas and Toledo, Edan and Hazra, Rishi and Kuchnik, Michael and Omari, Bassel Al and Foster, Thomas Simon and Protopopov, Anton and Gagnon-Audet, Jean-Christophe and Mediratta, Ishita and others},
+  journal={arXiv preprint arXiv:2603.26499},
+  year={2026}
+}
+```
